@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align = "center">
+<body>
+<img src = "https://user-images.githubusercontent.com/58760297/97091918-1715b400-165d-11eb-8fa1-3c17c44ce8e9.gif"/>
+<audio controls src = "../mp3/green_beats.mp3" >
+</audio>
+</body>
+</div>
 
-<!--
-**souvikmahato-sm/souvikmahato-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> ***“The more I learn, the more I realize how much I don't know"***
+---
+### **Hi there👋! I'm *Souvik*, I love programming and optimizing stuffs. I'm a student of Computer Science from IIEST, Shibpur .** 
+---
+### **I love to :**
+- **Practise compeititive programming.** [
+<img height="22" width="22" src="https://unpkg.com/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/souvikmahato)
+ [<img height="22" width="22" src="https://unpkg.com/simple-icons@latest/icons/hackerrank.svg" />](https://www.hackerrank.com/souvikmahato2279)
+- **explore new technologies.**
+---
+### **Languages and Tools :**
+<p>
+<img height="32"  width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>  <img height="32" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  <img  width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
